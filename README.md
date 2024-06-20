@@ -9,8 +9,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-22C6FC.svg?logo=docker&style=for-the-badge)
   ![kubernetes](https://img.shields.io/badge/-kubernetes-F2C68C.svg?logo=kubernetes&style=for-the-badge)
   ![Go](https://img.shields.io/badge/-Go-F2C63C.svg?logo=go&style=for-the-badge)
-  ![OpenAPI](https://img.shields.io/badge/-OpenAPI-22C535.svg?logo=OpenAPIInitiative&style=for-the-badge)
-  ![YAML](https://img.shields.io/badge/-yaml-337BDD.svg?logo=yaml&style=for-the-badge)
 
 ---Hobby---
 
