@@ -6,9 +6,9 @@
   ![Javascript](https://img.shields.io/badge/-Javascript-4433DD.svg?logo=javascript&style=for-the-badge)
   ![Typescript](https://img.shields.io/badge/-Typescript-F2C63C.svg?logo=typescript&style=for-the-badge)
   ![React](https://img.shields.io/badge/-React-121212.svg?logo=React&style=for-the-badge)
+  ![Go](https://img.shields.io/badge/-Go-F2C63C.svg?logo=go&style=for-the-badge)
   ![Docker](https://img.shields.io/badge/-Docker-22C6FC.svg?logo=docker&style=for-the-badge)
   ![kubernetes](https://img.shields.io/badge/-kubernetes-F2C68C.svg?logo=kubernetes&style=for-the-badge)
-  ![Go](https://img.shields.io/badge/-Go-F2C63C.svg?logo=go&style=for-the-badge)
 
 ---Hobby---
 
