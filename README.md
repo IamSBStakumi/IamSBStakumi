@@ -6,8 +6,10 @@
 
   ![Javascript](https://img.shields.io/badge/-Javascript-4433DD.svg?logo=javascript&style=for-the-badge)
   ![Typescript](https://img.shields.io/badge/-Typescript-F2C63C.svg?logo=typescript&style=for-the-badge)
-  ![React](https://img.shields.io/badge/-React-121212.svg?logo=React&style=for-the-badge)
   ![Go](https://img.shields.io/badge/-Go-F2C63C.svg?logo=go&style=for-the-badge)
+
+<h4>Library</h4>
+  ![React](https://img.shields.io/badge/-React-121212.svg?logo=React&style=for-the-badge)
 
 <h4>Tools</h4>
 
